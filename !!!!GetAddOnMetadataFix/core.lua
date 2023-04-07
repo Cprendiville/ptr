@@ -1,0 +1,1 @@
+GetAddOnMetadata = C_AddOns.GetAddOnMetadata
